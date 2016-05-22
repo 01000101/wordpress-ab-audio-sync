@@ -3,6 +3,9 @@
 WordPress plugin that provides A/B audio comparison. This is a fork of the, now unmaintained,
 "hm-audio-sync" project.
 
+## Screenshots
+![A/B Audio Test](https://raw.githubusercontent.com/01000101/wordpress-ab-audio-sync/master/assets/ab-audio-screenshot-1.png "A/B Audio Test")
+
 ## Instructions
 
 * Download the plugin and unzip to your wp-content/plugins directory
